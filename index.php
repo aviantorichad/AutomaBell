@@ -182,7 +182,7 @@ if ($status == 1) {
                         }
                     }
                     ?>><img src="img/bg-icon.png" style="background-image: url('img/glyphicons-halflings-white.png');background-position: -336px -24px;background-repeat: no-repeat;margin-right:3px;"/>Unggah MP3</a>
-                    <a href="panduan.pdf" target="_blank" title="Bantuan"><img src="img/bg-icon.png" style="background-image: url('img/glyphicons-halflings-white.png');background-position: -96px -96px;background-repeat: no-repeat;margin-right:3px;" title="Bantuan"/></a>
+                    <a href="Panduan.pdf" target="_blank" title="Bantuan"><img src="img/bg-icon.png" style="background-image: url('img/glyphicons-halflings-white.png');background-position: -96px -96px;background-repeat: no-repeat;margin-right:3px;" title="Bantuan"/></a>
                     <span id="tgl"></span>
                 </div>
             </div>
