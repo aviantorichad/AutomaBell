@@ -11,7 +11,7 @@ require_once "koneksi.php";
 if(!empty($_REQUEST['stat'])){
 	if($_REQUEST['stat'] == 1 || $_REQUEST['stat'] == 9){
 		$status = $_REQUEST['stat'];
-		$query = mysql_query("UPDATE status SET status = $status") or die("gagal query [".mysql_error()."] <a href='javascript:history.back()'>back</a>");
+		$query = $server->query("UPDATE status SET status = $status") or die("gagal query [".mysqli_error($server)."] <a href='javascript:history.back()'>back</a>");
 		if($query){
 			header("location:index.php?l=home#suksesupdatestatus");
 		} else {

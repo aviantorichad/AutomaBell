@@ -13,239 +13,239 @@
 */
 
 *{
-	font-family:arial;
+    font-family:arial;
 }
 h1{
-	margin:0;
-	color:#fff;
+    margin:0;
+    color:#fff;
 }
 a{
-	color:#007799;
+    color:#007799;
 }
 
 a:hover{
-	color:#fff;
+    color:#fff;
 }
 
 input,select ,file{
-	border:1px solid #dddddd;
-	background:#ffffff;
-	color:#222;
-	font-family:arial;
-	margin:2px;
-	border-radius:2px;
-	padding:5px;
+    border:1px solid #dddddd;
+    background:#ffffff;
+    color:#222;
+    font-family:arial;
+    margin:2px;
+    border-radius:2px;
+    padding:5px;
 }
 input[type="submit"]{
-	background:#008877;
-	color:#f0f0f0;
-	cursor:pointer;
-	background:-webkit-linear-gradient(top, #000, #333);
-	background: -moz-linear-gradient(top, #000, #333);
-	background: -ms-linear-gradient(top, #000, #333);
-	background: -o-linear-gradient(top, #000, #333);
-	border-radius:5px;
-	padding:7px;
+    background:#008877;
+    color:#f0f0f0;
+    cursor:pointer;
+    background:-webkit-linear-gradient(top, #000, #333);
+    background: -moz-linear-gradient(top, #000, #333);
+    background: -ms-linear-gradient(top, #000, #333);
+    background: -o-linear-gradient(top, #000, #333);
+    border-radius:5px;
+    padding:7px;
 }
 input[type="submit"]:hover{
-	background:#008877;
-	color:#f0f0f0;
-	cursor:pointer;
-	background:-webkit-linear-gradient(top, #000, #777);
-	background: -moz-linear-gradient(top, #000, #777);
-	background: -ms-linear-gradient(top, #000, #777);
-	background: -o-linear-gradient(top, #000, #777);
+    background:#008877;
+    color:#f0f0f0;
+    cursor:pointer;
+    background:-webkit-linear-gradient(top, #000, #777);
+    background: -moz-linear-gradient(top, #000, #777);
+    background: -ms-linear-gradient(top, #000, #777);
+    background: -o-linear-gradient(top, #000, #777);
 }
 input[type="button"]{
-	background:#008877;
-	color:#f0f0f0;
-	cursor:pointer;
-	background:-webkit-linear-gradient(top, #000, #333);
-	background: -moz-linear-gradient(top, #000, #333);
-	background: -ms-linear-gradient(top, #000, #333);
-	background: -o-linear-gradient(top, #000, #333);
-	border-radius:5px;
-	padding:7px;
+    background:#008877;
+    color:#f0f0f0;
+    cursor:pointer;
+    background:-webkit-linear-gradient(top, #000, #333);
+    background: -moz-linear-gradient(top, #000, #333);
+    background: -ms-linear-gradient(top, #000, #333);
+    background: -o-linear-gradient(top, #000, #333);
+    border-radius:5px;
+    padding:7px;
 }
 input[type="button"]:hover{
-	background:-webkit-linear-gradient(top, #000, #777);
-	background: -moz-linear-gradient(top, #000, #777);
-	background: -ms-linear-gradient(top, #000, #777);
-	background: -o-linear-gradient(top, #000, #777);
+    background:-webkit-linear-gradient(top, #000, #777);
+    background: -moz-linear-gradient(top, #000, #777);
+    background: -ms-linear-gradient(top, #000, #777);
+    background: -o-linear-gradient(top, #000, #777);
 }
 body{
-	background: #ddd;
-	background-image:url('img/Nylon_Rainbow_by_Sam_Hewitt.jpg');
-	background-size:containt;	
-	/**/
-	font-size:14px;
-	margin:20px 0;
+    background: #ddd;
+    background-image:url('img/Nylon_Rainbow_by_Sam_Hewitt.jpg');
+    background-size:containt;	
+    /**/
+    font-size:14px;
+    margin:20px 0;
 }
 
 #wrapper {
-	background: maroon;
-	width:800px;
-	margin:0 auto;
-	z-index:999;
-	margin-top:30px;
+    background: maroon;
+    width:800px;
+    margin:0 auto;
+    z-index:999;
+    margin-top:30px;
 }
 
 #navigasi {
-	background:#333;
-	color:#f0f0f0;
-	width:100%;
-	padding:9px;
-	background:-webkit-linear-gradient(top, #000, #333);
-	background: -moz-linear-gradient(top, #000, #333);
-	background: -ms-linear-gradient(top, #000, #333);
-	background: -o-linear-gradient(top, #000, #333);
-	float:left;
+    background:#333;
+    color:#f0f0f0;
+    width:100%;
+    padding:9px;
+    background:-webkit-linear-gradient(top, #000, #333);
+    background: -moz-linear-gradient(top, #000, #333);
+    background: -ms-linear-gradient(top, #000, #333);
+    background: -o-linear-gradient(top, #000, #333);
+    float:left;
 }
 
 #navigasi a{
-	color:#f0f0f0;
-	text-decoration:none;
-	padding:10px;
-	margin:0;
+    color:#f0f0f0;
+    text-decoration:none;
+    padding:10px;
+    margin:0;
 }
 #navigasi a:hover{
-	background:maroon;
-	color:#fff;
+    background:maroon;
+    color:#fff;
 }
 #navigasi .aktiv{
-	background:maroon;
-	color:#fff;
-	font-weight:bold;
+    background:maroon;
+    color:#fff;
+    font-weight:bold;
 }
 
 #header {
-	background:maroon;
-	color:#f9f9f9;
-	width:100%;
-	padding:10px;
-	background:-webkit-linear-gradient(top, maroon, #aa0000);
-	background: -moz-linear-gradient(top, maroon, #aa0000);
-	background: -ms-linear-gradient(top, maroon, #aa0000);
-	background: -o-linear-gradient(top, maroon, #aa0000);
-	float:left;
+    background:maroon;
+    color:#f9f9f9;
+    width:100%;
+    padding:10px;
+    background:-webkit-linear-gradient(top, maroon, #aa0000);
+    background: -moz-linear-gradient(top, maroon, #aa0000);
+    background: -ms-linear-gradient(top, maroon, #aa0000);
+    background: -o-linear-gradient(top, maroon, #aa0000);
+    float:left;
 }
 
 #header img{
-	width:10%;
+    width:10%;
 }
 
 #jam {
-	text-align:right;
-	background:transparent;
-	padding:10px;
-	border-radius:20px;
-	background:-webkit-linear-gradient(right, red, transparent);
-	background: -moz-linear-gradient(right, red, transparent);
-	background: -ms-linear-gradient(right, red, transparent);
-	background: -o-linear-gradient(right, red, transparent);
+    text-align:right;
+    background:transparent;
+    padding:10px;
+    border-radius:20px;
+    background:-webkit-linear-gradient(right, red, transparent);
+    background: -moz-linear-gradient(right, red, transparent);
+    background: -ms-linear-gradient(right, red, transparent);
+    background: -o-linear-gradient(right, red, transparent);
 }
 #content {
-	background:#f9f9f9;
-	width:100%;
-	padding:10px;
-	background-image:url('img/front-content-pattern.png');
-	background-size:containt;
-	float:left;
+    background:#f9f9f9;
+    width:100%;
+    padding:10px;
+    background-image:url('img/front-content-pattern.png');
+    background-size:containt;
+    float:left;
 }
 #footer {
-	color:#555;
-	width:100%;
-	padding:10px;
-	background:#ddd;
-	background:-webkit-linear-gradient(top, #ddd, #999);
-	background: -moz-linear-gradient(top, #ddd, #999);
-	background: -ms-linear-gradient(top, #ddd, #999);
-	background: -o-linear-gradient(top, #ddd, #999);
-	text-align:right;
-	float:left;
-	font-size:12px;
+    color:#555;
+    width:100%;
+    padding:10px;
+    background:#ddd;
+    background:-webkit-linear-gradient(top, #ddd, #999);
+    background: -moz-linear-gradient(top, #ddd, #999);
+    background: -ms-linear-gradient(top, #ddd, #999);
+    background: -o-linear-gradient(top, #ddd, #999);
+    text-align:right;
+    float:left;
+    font-size:12px;
 }
 
 table {
-	background:#ffffff;
-	width:100%;
-	border:1px solid #f0f0f0;
-	font-size:12px;
-	font-family:arial;
+    background:#ffffff;
+    width:100%;
+    border:1px solid #f0f0f0;
+    font-size:12px;
+    font-family:arial;
 }
 
 tr:hover {
-	background:#f0f0f0;
+    background:#f0f0f0;
 }
 
 td{
-	border:1px solid #f9f9f9;
-	padding:3px;
+    border:1px solid #f9f9f9;
+    padding:3px;
 }
 td:hover{
-	border:1px solid #aaa;
+    border:1px solid #aaa;
 }
 
 #global{
-	display:block;
-	position:fixed;
-	width:100%;
-	height:100%;
-	margin:0;
-	background:rgba(0,0,0,0.7);
-	top:0;
-	right:0;
-	bottom:0;
-	left:0;
-	margin:0 auto;
-	z-index:998;
-	overflow:auto;
+    display:block;
+    position:fixed;
+    width:100%;
+    height:100%;
+    margin:0;
+    background:rgba(0,0,0,0.7);
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:0 auto;
+    z-index:998;
+    overflow:auto;
 }
 
 /*start style on/off bel*/
 #status{
-	float:right;
-	padding:3px;
-	border-radius:10px;
+    float:right;
+    padding:3px;
+    border-radius:10px;
 }
 
 #status a{
-	text-decoration:none;
-	color:#fff;
+    text-decoration:none;
+    color:#fff;
 }
 .status_on{
-	background:#00cc99;
-	background:-webkit-linear-gradient(top, #00cc99, green);
-	background: -moz-linear-gradient(top, #00cc99, green);
-	background: -ms-linear-gradient(top, #00cc99, green);
-	background: -o-linear-gradient(top, #00cc99, green);
+    background:#00cc99;
+    background:-webkit-linear-gradient(top, #00cc99, green);
+    background: -moz-linear-gradient(top, #00cc99, green);
+    background: -ms-linear-gradient(top, #00cc99, green);
+    background: -o-linear-gradient(top, #00cc99, green);
 }
 .status_on:hover{
-	background:maroon;
-	background:-webkit-linear-gradient(top, red, maroon);
-	background: -moz-linear-gradient(top, red, maroon);
-	background: -ms-linear-gradient(top, red, maroon);
-	background: -o-linear-gradient(top, red, maroon);
+    background:maroon;
+    background:-webkit-linear-gradient(top, red, maroon);
+    background: -moz-linear-gradient(top, red, maroon);
+    background: -ms-linear-gradient(top, red, maroon);
+    background: -o-linear-gradient(top, red, maroon);
 }
 
 .status_off{
-	background:maroon;
-	background:-webkit-linear-gradient(top, red, maroon);
-	background: -moz-linear-gradient(top, red, maroon);
-	background: -ms-linear-gradient(top, red, maroon);
-	background: -o-linear-gradient(top, red, maroon);
+    background:maroon;
+    background:-webkit-linear-gradient(top, red, maroon);
+    background: -moz-linear-gradient(top, red, maroon);
+    background: -ms-linear-gradient(top, red, maroon);
+    background: -o-linear-gradient(top, red, maroon);
 }
 .status_off:hover{
-	background:#00cc99;
-	background:-webkit-linear-gradient(top, #00cc99, green);
-	background: -moz-linear-gradient(top, #00cc99, green);
-	background: -ms-linear-gradient(top, #00cc99, green);
-	background: -o-linear-gradient(top, #00cc99, green);
+    background:#00cc99;
+    background:-webkit-linear-gradient(top, #00cc99, green);
+    background: -moz-linear-gradient(top, #00cc99, green);
+    background: -ms-linear-gradient(top, #00cc99, green);
+    background: -o-linear-gradient(top, #00cc99, green);
 }
 /*end style on/off bel*/
 
 tr.header {
-	background-color:#ddd;
-	font-weight:bold;
-	text-align:center;
+    background-color:#ddd;
+    font-weight:bold;
+    text-align:center;
 }
