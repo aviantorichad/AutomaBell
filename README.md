@@ -5,6 +5,9 @@ Bel sekolah otomatis. Dibuat menggunakan PHP.
 
 ![screenshot](https://github.com/aviantorichad/AutomaBell/blob/master/img/ss-jadwal.png)
 
+## Login
+- username : admin
+- password : admin
 
 ## Versi PRO
 Ingin menggunakan versi pro?
